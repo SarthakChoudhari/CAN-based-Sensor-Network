@@ -1,4 +1,4 @@
-# CAN-based-Sensor-Network
+# CAN based Sensor Network for Industrial Monitoring
 This project involves a CAN-based sensor network designed for industrial monitoring. It utilizes STM32 and ESP32
 microcontrollers to manage and transmit sensor data. Four sensors connected to the STM32 capture various
 monitoring parameters, which are then transmitted to an ESP32 via the CAN protocol.The ESP32 receives this data
